@@ -1,0 +1,16 @@
+{
+  "name": "simple-calcy",
+  "version": "1.0.1",
+  "description": "A simple Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Backend",
+    "Nodejs",
+    "Calculator"
+  ],
+  "author": "Noel",
+  "license": "ISC"
+}
